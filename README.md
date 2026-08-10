@@ -1,5 +1,3 @@
-Here’s a polished `README.md` with emojis, suitable for a GitHub project or college submission:
-
 # 📝 Notes Application
 
 A simple and user-friendly **Notes Application** built with **Python 🐍**, **Tkinter 🖥️**, **SQLite 🗄️**, and **Markdown ✍️**.
